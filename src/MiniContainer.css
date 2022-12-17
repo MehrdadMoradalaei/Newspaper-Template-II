@@ -1,0 +1,37 @@
+.label{
+    background-color: rgb(2, 7, 82);
+    color: rgb(255, 255, 255);
+    font-style:italic;
+    font-size: large;
+    width: 17%;
+    margin-bottom: 10px;
+    height: 30px;
+    text-align: center;
+    padding-top: 6px;
+    display: inline-block;
+}
+.subject{
+    background-color: rgb(169, 192, 207);
+    color: black;
+    font-size: large;
+    padding-top: 6px;
+    font-style:italic bold;
+    height: 30px;
+    text-align:left;
+    width: 83% ;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.Weather{
+    text-align: center;
+    height: 50px;
+    background-color: rgb(129, 183, 245);
+    padding: 17px 10px 3px 10px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.FirstGrid{
+    margin: 50px 0;
+
+}

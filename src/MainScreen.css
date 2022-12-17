@@ -1,0 +1,18 @@
+.SecondGrid{
+    margin: 20px 0 0 0;
+    width: 100%;
+    height: 325px;
+}
+.Bignews{
+    height: 100%;
+    width: 90%;
+    display: inline-block;
+}
+.Smallnews{
+    height: 152px;
+    width: 80%;
+    display: inline-block;
+}
+.img{
+    width: 100%;
+}
